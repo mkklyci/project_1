@@ -1,7 +1,7 @@
 /*
  * main.c
  * Author: Muhammet Kamil KALAYCI
- * Project 2 - Fully Operational Scientific Calculator
+ * Project 1 - Function Generator
  *
  */
 
